@@ -1,13 +1,12 @@
 [package]
-name = "saker"
 description = "l18n static site generator in safety"
-version = "0.0.0"
 edition = "2021"
-
 homepage = "https://github.com/plabayo/saker"
 license = "MIT"
+name = "saker"
 readme = "README.md"
 repository = "https://github.com/plabayo/saker"
+version = "0.0.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
