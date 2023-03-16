@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="80mm"
+   viewBox="0 0 200 80"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect17574"
+       width="108.31765"
+       height="10.132941"
+       x="80.3647"
+       y="46.471767" />
+    <path
+       id="rect914"
+       style="fill:#000000;stroke:#cbcbcb;stroke-width:1.33;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 12.928365,10.333013 V 33.044806 H 64.291637 V 10.333013 Z m 19.916096,3.144511 h 10.133226 v 1.74718 H 32.844461 Z" />
+    <path
+       id="rect914-8"
+       style="fill:#000000;stroke:#cbcbcb;stroke-width:1.33;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 12.92837,34.103141 V 56.814932 H 64.291637 V 34.103141 Z m 19.916095,3.144511 h 10.133232 v 1.74718 H 32.844465 Z" />
+    <path
+       id="rect1422"
+       style="fill:#000000;stroke:#cbcbcb;stroke-width:1.33;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 12.928364,57.873262 v 11.669573 h 8.843388 l 1.5875,-4.6731 h 31.549493 l 1.5875,4.6731 h 7.79539 V 57.873262 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.0656px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="79.41967"
+       y="44.354702"
+       id="text2867"><tspan
+         id="tspan2865"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="79.41967"
+         y="44.354702">säker</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="81.787148"
+       y="54.008389"
+       id="text2867-9"><tspan
+         id="tspan2865-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Helvetica;-inkscape-font-specification:Helvetica;fill:#ffffff;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="81.787148"
+         y="54.008389">l18n static site generator in safety</tspan></text>
+  </g>
+</svg>
