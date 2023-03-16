@@ -1,4 +1,4 @@
-![saker banner](./docs/img/banner.svg)
+![säker banner](./docs/img/banner.svg)
 
 [![Build Status][build-status]][build-url]
 [![Crates.io][crates-badge]][crates-url]
@@ -24,13 +24,13 @@ These crates uses `#![forbid(unsafe_code)]` to ensure everything is implemented 
 
 ## Minimum supported Rust version
 
-`saker`'s MSRV is 1.60.
+`säker`'s MSRV is 1.60.
 
 ## Contributing
 
 :balloon: Thanks for your help improving the project! We are so happy to have
 you! We have a [contributing guide][contributing] to help you get involved in the
-`saker` project.
+`säker` project.
 
 ## License
 
@@ -39,8 +39,8 @@ This project is licensed under the [MIT license][license].
 ### Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in `saker` by you, shall be licensed as MIT, without any
+for inclusion in `säker` by you, shall be licensed as MIT, without any
 additional terms or conditions.
 
 [contributing]: https://github.com/plabayo/saker/blob/main/CONTRIBUTING.md
-[license]: https://github.com/plabayo/saker/blob/main/saker/LICENSE
+[license]: https://github.com/plabayo/saker/blob/main/LICENSE
